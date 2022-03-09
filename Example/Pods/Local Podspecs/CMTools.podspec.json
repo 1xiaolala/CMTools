@@ -1,9 +1,9 @@
 {
   "name": "CMTools",
   "version": "0.1.0",
-  "summary": "A short description of CMTools.",
+  "summary": "CMTools 基础工具类库",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/suibian/CMTools",
+  "homepage": "https://github.com/1xiaolala/CMTools",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,11 @@
     "suibian": "suibian@gmail.com"
   },
   "source": {
-    "git": "https://github.com/suibian/CMTools.git",
+    "git": "https://github.com/1xiaolala/CMTools.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "CMTools/Classes/**/*"
+  "source_files": "CMTools/**/*"
 }
