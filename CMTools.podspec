@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CMTools'
+  s.name             = 'CmTools'
   s.version          = '0.1.0'
   s.summary          = 'CMTools 基础工具类库'
 
