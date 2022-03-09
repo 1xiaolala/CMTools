@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CmTools'
-  s.version          = '0.1.0'
+  s.name             = 'CmTool'
+  s.version          = '0.2.0'
   s.summary          = 'CMTools 基础工具类库'
 
 # This description is used to generate tags and improve search results.
